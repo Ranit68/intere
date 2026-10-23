@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#ddd2c2"/>
+  <path d="M0 560 390 260l260 210 190-160 360 280v210H0z" fill="#c1b9a8"/>
+  <path d="M0 645 382 375l240 188 223-189 355 270v156H0z" fill="#a9aa91"/>
+  <circle cx="930" cy="180" r="72" fill="#eee9df"/>
+  <text x="600" y="735" fill="#494a42" font-family="Georgia,serif" font-size="29" text-anchor="middle" letter-spacing="6">FORM &amp; FABLE · IMAGE STUDY</text>
+</svg>
